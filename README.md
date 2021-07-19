@@ -1,3 +1,6 @@
+# FORK archivado para conservarlo, evolución en
+[https://github.com/R-Evolution/palabras-rae-con-genero](https://github.com/R-Evolution/palabras-rae-con-genero)
+
 # Palabras del Diccionario de la Real Academia Española
 
 Pongo a disposición todas las palabras del idioma español en un sólo archivo `.txt` junto con el código en Python para generarlo desde las fuentes.
