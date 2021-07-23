@@ -1,5 +1,5 @@
 # FORK archivado para conservarlo, evolución en
-[https://github.com/R-Evolution/palabras-rae-con-genero](https://github.com/R-Evolution/palabras-rae-con-genero)
+[https://github.com/IsGarrido/palabras-rae-con-genero](https://github.com/IsGarrido/palabras-rae-con-genero)
 
 # Palabras del Diccionario de la Real Academia Española
 
